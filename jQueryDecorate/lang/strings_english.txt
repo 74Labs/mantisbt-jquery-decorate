@@ -1,0 +1,30 @@
+<?php
+# Copyright (C) 2010 Tomasz Stañczyk, Lab74.org
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU Affero General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU Affero General Public License for more details.
+
+/** English (English)
+ *
+ * See the qqq 'language' for message documentation incl. usage of parameters
+ * To improve a translation please visit http://translatewiki.net
+ *
+ * @ingroup Language
+ * @file
+ *
+ */
+
+$s_plugin_jQueryDecorate_title = 'jQuery Decorate';
+$s_plugin_jQueryDecorate_description = 'Provides access to jQuery decorate plugin.';
+$s_plugin_jQueryDecorate_config = 'Configuration';
+$s_plugin_jQueryDecorate_selectors = 'Selectors';
+$s_plugin_jQueryDecorate_selectors_info = 'Semicolon separated jQuery selectors.';
+$s_plugin_jQueryDecorate_decorators = 'Decorators';
+$s_plugin_jQueryDecorate_decorators_info = 'Semicolon separated CSS classes (as many as selectors).';
